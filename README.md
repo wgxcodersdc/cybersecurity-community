@@ -50,3 +50,8 @@ Certain building managements requires meetup hosts to let people in and do not e
 This study group is intended to be exclusively open for any who identify as women; we are transgender friendly.
 
 Happy hacking! :)
+
+### Many thanks to the leads for contributing to the content of this repository.
+- [Joy Huggins](https://github.com/Joyous0ne) who runs [Defender Academy](https://www.networkdefenderacademy.com/)
+- [Shannon Strum](https://github.com/sstrum2)
+- [Kristian Tran](https://github.com/ktran13)
