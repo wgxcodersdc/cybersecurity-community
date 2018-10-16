@@ -1,6 +1,6 @@
 # Cybersecurity Resources
-**Github Awesome Hacking: Compiled list of various hacking resources**
-[https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+
+- [Github Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): Compiled list of various hacking resources
 
 **Cyberseek: Data about the need for cybersecurity workers, example career paths**
 [http://cyberseek.org/](http://cyberseek.org/)
