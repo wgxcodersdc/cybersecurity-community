@@ -1,4 +1,4 @@
-# Cyber Security Community
+# Cybersecurity Community
 
 ## What is this community for?
 
@@ -6,7 +6,7 @@
 
 * 6:30pm  - Begin
 * 6:40 - 6:50pm - Quick Introductions
-* 6:50 - 8:00pm - CODE!
+* 6:50 - 8:00pm - Hack!
 * 8:00 - 8:20pm - Lightning Talk (a quick presentation or talk) (if planned)
 * 8:20 - 8:30pm - Wrap Up
 
