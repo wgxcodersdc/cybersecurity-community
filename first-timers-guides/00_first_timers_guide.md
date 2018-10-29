@@ -26,7 +26,7 @@ This [interactive map](https://www.cyberseek.org/pathway.html) provides a look i
 
 
 ## Sounds cool! How can I get started? 
-Our events will assume a basic knowledge of programming. However, we are open to programmers of all levels! Check out [these resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md) to get started on learning how to code. 
+Our events will focus on the more technical areas of security and will assume a basic knowledge of programming. However, we are open to programmers of all levels! Check out [these resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md) to get started on learning how to code. 
 
 As for programming languages, there are many good ones to learn for security. Below are a few recommendations based on what domain of security you're interested in: 
 
