@@ -12,8 +12,17 @@ This [interactive map](https://www.cyberseek.org/pathway.html) provides a look i
 
 
 ## What are some common myths/misconceptions? 
-* If I have a career in cybersecurity, I'll be sitting alone in a dark room wearing a hoodie and staring at screens all day. 
+* If I have a career in cybersecurity, I'll be sitting alone in a dark room wearing a hoodie and staring at screens all day.
 
+   **Reality**: cybersecurity is a collaborative field. You will work with people from all different backgrounds on a variety of projects. 
+   
+* I need to have a degree in Computer Science.  
+  
+   **Reality**: there are many different paths to becoming a cybersecurity professional. While it is useful to study Computer Science, there are people in this industry with degrees in psychology, law, mathematics, art history, or are even self taught. The initiative, willingness to learn, and work ethic you have is most important.  
+   
+* I don't want to code all day, so I shouldn't be in cybersecurity. 
+
+  **Reality**: not all cybersecurity jobs are strictly coding. In addition to traditional engineering roles, there are opportunities available in governance, intelligence, and risk management.
 
 
 ## Sounds cool! How can I get started? 
