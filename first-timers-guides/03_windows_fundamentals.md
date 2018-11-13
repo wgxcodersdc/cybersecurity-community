@@ -5,8 +5,8 @@ Windows is one of the most popular commercial operating systems to the general p
 Because Windows is GUI-based (Graphical User Interface)-based, the tools you'll need to learn about will have an interface. Aside from GUI-based applications, the most important tool you'll need to learn is Powershell.
 
 ## Useful Tools/Concepts
-### Powershell
-- [Powershell](https://docs.microsoft.com/en-us/powershell/)
+### What is Powershell?
+PowerShell provides an easy way to administratively control windows systems, either interactively or from script. You can learn more here at the Microsoft [Powershell Website](https://docs.microsoft.com/en-us/powershell/)
 
 #### Quick Guide - Useful Commands
 ```
@@ -29,7 +29,6 @@ This is useful for automating commands
 #### Create/delete users, set policies
 ```
 ```
-
 
 ## Logs
 - Where to find machine logs to catch bad actors
